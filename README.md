@@ -2,7 +2,7 @@
 Acest proiect reprezinta prima tema de la cursul Concepte si Aplicatii in Vedere Artificiala.
 
 # Descrierea problemei
-1. <a href="">Enunt</a>
+1. <a href="https://github.com/AlexVulpoiu/Sudoku_information_extraction/blob/main/tema1.pdf">Enunt</a>
 
 2. Librarii folosite
 
