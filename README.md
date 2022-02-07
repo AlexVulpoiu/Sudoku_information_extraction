@@ -39,4 +39,4 @@ Bonus task 2:
 
 5. Evaluarea solutiei
 
-Pentru a testa solutia pe datele de antrenare, rulati fisierul "./CAVA-2021-TEMA1/evaluare/cod_evaluare/evalueaza_solutie.py". Atat pe datele de antrenare, cat si pe datele de test, solutia descrisa a obtinut o performanta de 100%.
+Pentru a testa solutia pe datele de antrenare, rulati fisierul <a href="https://github.com/AlexVulpoiu/Sudoku_information_extraction/blob/main/CAVA-2021-TEMA1/evaluare/cod_evaluare/evalueaza_solutie.py">evalueaza_solutie</a>. Atat pe datele de antrenare, cat si pe datele de test, solutia descrisa a obtinut o performanta de 100%.
