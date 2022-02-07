@@ -36,3 +36,7 @@ Bonus task 2:
 - rezultatele se gasesc in folderul "rezultate_Vulpoiu_Alexandru/jigsaw", care va fi creat automat in acelasi director in care se afla notebook-ul
 
 4. <a href="https://github.com/AlexVulpoiu/Sudoku_information_extraction/blob/main/Tema1_CAVA_Vulpoiu_Alexandru_331.pdf">Descrierea solutiei</a>
+
+5. Evaluarea solutiei
+
+Pentru a testa solutia pe datele de antrenare, rulati fisierul "./CAVA-2021-TEMA1/evaluare/cod_evaluare/evalueaza_solutie.py". Atat pe datele de antrenare, cat si pe datele de test, solutia descrisa a obtinut o performanta de 100%.
