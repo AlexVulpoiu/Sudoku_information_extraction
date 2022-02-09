@@ -6,10 +6,8 @@ Acest proiect reprezinta prima tema de la cursul Concepte si Aplicatii in Vedere
 
 2. Librarii folosite
 
-cv2==4.5.3
-numpy==1.21.4
-
-
+- cv2==4.5.3
+- numpy==1.21.4
 
 3. Indicatii despre rularea codului
 
